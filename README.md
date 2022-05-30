@@ -22,6 +22,7 @@ The Illustrator files located in the `src` directory have been assembled for pri
 - CMYK color space
 - artboards measure 2&frac34;&rdquo; (69.85 mm) square
 - minimum &frac18;&rdquo; (3.176 mm) gap between artboard edge and hexagon points
+- stripes and bars on flag graphics overlap (reduces export artifacts)
 
 ### Screen image files
 
