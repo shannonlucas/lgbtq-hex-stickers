@@ -24,9 +24,16 @@ Click on the green button labeled "Code" above. A popup menu will appear. Click 
 
 ## Design liberties
 
-Some changes were necessary to some flag designs in order to fit visually within a hexagonal shape.
+Some changes were necessary to some flag designs in order them to fit visually within a hexagonal shape. Those changes are outlined below.
 
-- `filename` - changes made
+- `hex-bear` - increased size of bear paw and moved to central position
+- `hex-leather` - increased size of heart and moved to central position
+- `hex-polyamorous` - increased size of pi symbol
+- `hex-polyamorous-infinity-heart` - decreased size of infinity heart symbol
+- `hex-pony` - reduced size of circle and horseshoes
+- `hex-pride-new` - turned QTPOC stripes vertical and reduced stripe with slightly.
+- `hex-rubber` - adjusted vertical offset of stripes
+- `hex-twink` - increased size of male symbols
 
 ## Designer credits
 
