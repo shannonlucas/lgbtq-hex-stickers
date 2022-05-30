@@ -1,6 +1,15 @@
 # LGBTQ+ Hexagon Pride Flag Stickers
 
+![banner image with several pride hexagons](./static/header-image.png "Pride hexagon banner")
+
 This repository contains a collection of over 30 hexagonal stickers representing various LGBTQ+ Pride flags.
+
+The hexagons have the following characteristics:
+
+- designed for Sticker Mule&rsquo;s [2.17&rdquo; &times; 2.5&rdquo; hexagon sticker template](https://www.stickermule.com/uses/hexagon-stickers)
+- no visible graphic content outside the cut line
+- a white border that extends &frac18;&rdquo; inside the cut line
+- a 1 point grey line around the inside of the white boarder
 
 Image assets from the [lgbtq-flag-stickers](https://github.com/shannonlucas/lgbtq-flag-stickers) repository were used to create these stickers.
 
@@ -10,21 +19,25 @@ Image assets from the [lgbtq-flag-stickers](https://github.com/shannonlucas/lgbt
 
 The Illustrator files located in the `src` directory have been assembled for printing as stickers. Each file has the following characteristics:
 
+- CMYK color space
+- artboards measure 2&frac34;&rdquo; (69.85 mm) square
+- minimum &frac18;&rdquo; (3.176 mm) gap between artboard edge and hexagon points
+
 ### Screen image files
 
-Screen display versions are located in the `dist` directory. These are provided in scalable (SVG) and bitmap (PNG) formats. In the SVG files, the contents of the bleed area are present but hidden by the clipping mask. The PNG files are 1024 pixels wide, and the bleed area is not present.
+Screen display versions are located in the `dist` directory. These are provided in scalable (SVG) and bitmap (PNG) formats. The PNG files are 1,024 pixels high and have transparent backgrounds.
 
 ### Template
 
-The blank template used for the flags is located at the top level of the project as the file ``.
+The blank template used to create the hexagons is located at the top level of the project as the file `hexagon-sticker-2_5-inch.ait`. A cut line path is provided on its own layer to support making stickers with no inside border.
 
 ## Downloading
 
-Click on the green button labeled "Code" above. A popup menu will appear. Click the "Download ZIP" item at the bottom of that menu. A .zip file containing a copy of this repository and all the images will then be downloaded.
+Click on the green button labeled &ldquo;Code&rdquo; above. A popup menu will appear. Click the &ldquo;Download ZIP&rdquo; item at the bottom of that menu. A .zip file containing a copy of this repository and all the images will then be downloaded.
 
 ## Design liberties
 
-Some changes were necessary to some flag designs in order them to fit visually within a hexagonal shape. Those changes are outlined below.
+Some flag designs required changes in order them to fit visually within a hexagonal shape. Those changes are outlined below.
 
 - `hex-bear` - increased size of bear paw and moved to central position
 - `hex-leather` - increased size of heart and moved to central position
