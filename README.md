@@ -51,6 +51,7 @@ Some flag designs required changes in order them to fit visually within a hexago
 - `hex-polyamorous-infinity-heart` - decreased size of infinity heart symbol
 - `hex-pony` - reduced size of circle and horseshoes
 - `hex-pride-new` - turned QTPOC stripes vertical and reduced stripe with slightly.
+- `hex-pride-progress-intersex` - moved chevrons slightly closer together, used yellow and purple from Pride stripes.
 - `hex-rubber` - adjusted vertical offset of stripes
 - `hex-twink` - increased size of male symbols
 
